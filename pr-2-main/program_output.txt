@@ -1,0 +1,37 @@
+=== OBLIK ROBOCHOHO CHASU ===
+
+1. Pratsivnyk:
+PIB: Рекичанський Максим, posada: Програміст, pidrozdil: ІТ, tabelnyi nomer: 101
+
+2. Robotodavets / pidpryiemstvo:
+Nazva: Навчальне підприємство, adresa: м. Одеса, pidrozdily: ІТ, адміністрація
+
+3. Robochyi den:
+Data: 06.10.2026, pochatok: 09:00, zavershennya: 18:00, tryvalist: 8.000000 hod.
+
+4. Robochyi chas:
+Data: 06.10.2026, pochatok: 09:00, zavershennya: 18:00, tryvalist: 8.000000 hod.
+
+5. Pererva:
+Pochatok: 13:00, zavershennya: 14:00, tryvalist: 1.000000 hod.
+
+6. Tabel obliku robochoho chasu:
+Misyats: Жовтень 2026, pratsivnyk: Рекичанський Максим, vidpratsovani hodyny: 160.000000, neiavky: 0
+
+7. Vidsutnist:
+Data: 10.10.2026, prychyna: Особисті обставини, tryvalist: 8.000000 hod.
+
+8. Vidpustka:
+Vyd: Щорічна, pochatok: 20.10.2026, zavershennya: 24.10.2026
+
+9. Likarnyanyi:
+Pochatok: 02.11.2026, zavershennya: 05.11.2026, prychyna: Тимчасова непрацездатність
+
+10. Nadurochna robota:
+Data: 06.10.2026, kilkist hodyn: 2.000000, pratsivnyk: Рекичанський Максим
+
+11. Hrafik roboty:
+Dni roboty: Пн-Пт, pochatok: 09:00, zavershennya: 18:00, perervy: 13:00-14:00
+
+12. Faktychno vidpratsovanyi chas:
+Pratsivnyk: Рекичанський Максим, period: Жовтень 2026, faktychno vidpratsovano: 160.000000 hod.
